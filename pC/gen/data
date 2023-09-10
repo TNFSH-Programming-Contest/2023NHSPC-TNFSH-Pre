@@ -1,5 +1,5 @@
 @subtask samples
-manual example-1.in
+manual example.in
 
 @subtask simple
 gen	NZDYJDKSTZPXA
