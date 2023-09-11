@@ -1,10 +1,42 @@
 @subtask samples
 manual example.in
+manual compare_example.in
+@subtask n4
+@include samples
+manual 1x1.in
+gen1 100 100 2 1
+gen1 100 100 2 2
+gen1 100 100 2 3
+gen1 100 100 2 4
+gen1 100 100 2 5
+gen1 100 100 50 6
+gen1 100 100 50 7
+gen1 100 100 50 8
+gen1 100 100 50 9
+gen1 100 100 50 10
 
-@subtask simple
-gen	NZDYJDKSTZPXA
-gen	QJPQWDIQCHDTQ
+@subtask n3
+@include n4
+gen1 500 500 2 11
+gen1 500 500 2 12
+gen1 500 500 2 13
+gen1 500 500 2 14
+gen1 500 500 2 15
+gen1 500 500 100 16
+gen1 500 500 100 17
+gen1 500 500 100 18
+gen1 500 500 100 19
+gen1 500 500 100 20
 
-@subtask hacked
-gen	LCPBAACTRHQBK
-gen	HRSZNZILSJRHU
+@subtask full
+@include n3
+gen1 2000 2000 0 21
+gen1 2000 2000 2 22
+gen1 2000 2000 5 23
+gen1 2000 2000 10 24
+gen1 2000 2000 100 25
+gen1 2000 2000 100 26
+gen1 2000 2000 500 27
+gen1 2000 2000 1000 28
+gen1 2000 2000 2000 29
+gen1 2000 2000 40000000 30

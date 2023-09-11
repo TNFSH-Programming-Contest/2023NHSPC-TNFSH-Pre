@@ -1,8 +1,8 @@
 {
 	"contest_name": "TPS範例題目",
 	"problem_label": "C",
-	"name": "pC",
-	"title": "浮點誤差使用checker",
+	"name": "SOS",
+	"title": "求救訊號",
 	"memory_limit": 512,
 	"time_limit": 1.0,
 	"type": "Batch",

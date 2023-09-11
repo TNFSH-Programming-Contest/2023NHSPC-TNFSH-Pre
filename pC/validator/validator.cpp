@@ -1,18 +1,24 @@
 #include "testlib.h"
 using namespace std;
 
-const long long MAXN = 1e12 + 1;
+const long long maxNM = 2000;
 
-int main() {
+int main()
+{
 	registerValidation();
-	// about testlib, see https://codeforces.com/blog/entry/18291
-
-	inf.readDouble(0, MAXN, "A");
+	int N = inf.readInt(1, maxNM);
 	inf.readSpace();
-	inf.readDouble(0, MAXN, "B");
-	inf.readSpace();
-	inf.readDouble(0, MAXN, "C");
+	int M = inf.readInt(1, maxNM);
 	inf.readEoln();
+	for (int i = 1; i <= N; i++)
+	{
+		for (int j = 1; j <= M; j++)
+		{
+			char c = inf.readChar();
+			ensure(c == '.' || c == '#');
+		}
+		inf.readEoln();
+	}
 	inf.readEof();
 
 	return 0;

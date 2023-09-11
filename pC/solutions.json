@@ -1,8 +1,12 @@
 {
-	"correct1.cpp": {
+	"binary_search.cpp": {
 		"verdict": "model_solution"
 	},
-	"correct2.cpp": {
+	"linear.cpp": {
 		"verdict": "correct"
+	},
+	"n3.cpp": {
+		"verdict": "time_limit",
+		"except": {"n3": "correct"}
 	}
 }

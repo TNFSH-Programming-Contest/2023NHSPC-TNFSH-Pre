@@ -12,7 +12,7 @@
         "n4": {
             "index": 1,
             "score": 14,
-            "text": "$N, M \\leq 50$",
+            "text": "$N, M \\leq 100$",
             "validators": []
         },
         "n3": {

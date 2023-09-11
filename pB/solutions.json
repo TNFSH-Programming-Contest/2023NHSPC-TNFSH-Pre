@@ -1,12 +1,5 @@
 {
-	"correct1.cpp": {
+	"correct.cpp": {
 		"verdict": "model_solution"
-	},
-	"correct2.cpp": {
-		"verdict": "incorrect",
-		"except": {
-			"samples": "correct",
-			"simple": "correct"
-		}
 	}
 }
