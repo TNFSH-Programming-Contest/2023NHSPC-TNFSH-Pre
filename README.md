@@ -13,12 +13,3 @@
 | D. Checker範例 | [statement](pD/statement) [md](pD/statement/index.md) [pdf](pD/statement/index.pdf) | [gen](pD/gen) | [validator](pD/validator) | [solution](pD/solution) [check](pD/solutions-check.txt) | [tests](pD/tests) | [problem](pD/problem.json) [solutions](pD/solutions.json) [subtasks](pD/subtasks.json) |
 <!-- new problem -->
 
-## Subtasks
-<!-- subtasks start -->
-| | 1 | 2 | 3 |
-| --- | --- | --- | --- |
-| A | 20<br>$A = 0$、$1 \leq B \leq 10^{4}$ | 30<br>$0 \leq A, B \leq 10^{4}$ | 50<br>無額外限制 |
-| B | 20<br>Simple tests | 80<br>Hacked tests |
-| C | 20<br>Simple tests | 80<br>Hacked tests |
-| D | 20<br>$A, B \leq 10$ | 30<br>$A, B \leq 100$ | 50<br>無額外限制 |
-<!-- subtasks end -->
