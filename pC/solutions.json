@@ -7,6 +7,6 @@
 	},
 	"n3.cpp": {
 		"verdict": "time_limit",
-		"except": {"sample": "correct", "n4": "correct", "n3": "correct"}
+		"except": {"samples": "correct", "n4": "correct", "n3": "correct"}
 	}
 }
