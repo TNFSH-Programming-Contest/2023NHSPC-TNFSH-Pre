@@ -8,5 +8,8 @@
 		"iostream": "cpp",
 		"ios": "cpp",
 		"xiosbase": "cpp"
-	}
+	},
+	"[markdown]": {
+		"files.trimTrailingWhitespace": false
+	},
 }

@@ -1,14 +1,12 @@
 {
-	"correct1.cpp": {
+	"factorization.cpp": {
 		"verdict": "model_solution"
 	},
-	"correct2.cpp": {
+	"sqrt-decomposition.cpp": {
 		"verdict": "correct"
 	},
-	"not_even.cpp": {
-		"verdict": "incorrect"
-	},
-	"not_in_range.cpp": {
-		"verdict": "incorrect"
+	"brute.cpp": {
+		"verdict": "time_limit",
+		"except": {"samples": "correct", "brute": "correct"}
 	}
 }

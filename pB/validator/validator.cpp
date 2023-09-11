@@ -13,7 +13,7 @@ int main()
 
 	for (int i = 1; i <= N; i++)
 	{
-		inf.readDouble(0, maxC, "c_i");
+		inf.readInt(0, maxC, "c_i");
 		if (i == N)
 			inf.readEoln();
 		else

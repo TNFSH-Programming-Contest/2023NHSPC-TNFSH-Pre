@@ -9,21 +9,21 @@
             "text": "範例輸入輸出",
             "validators": []
         },
-        "n10": {
+        "brute": {
             "index": 1,
-            "score": 20,
-            "text": "$A, B \\leq 10$",
+            "score": 26,
+            "text": "$n \\leq 5000,q \\leq 5000$",
             "validators": []
         },
-        "n100": {
+        "static": {
             "index": 2,
-            "score": 30,
-            "text": "$A, B \\leq 100$",
+            "score": 33,
+            "text": "只有第 1 種活動可能發生",
             "validators": []
         },
         "full": {
             "index": 3,
-            "score": 50,
+            "score": 41,
             "text": "無額外限制",
             "validators": []
         }

@@ -1,17 +1,54 @@
+#include "testlib.h"
+
 #include <bits/stdc++.h>
 
-#include "testlib.h"
+
+
 using namespace std;
 
+
+
 int main(int argc, char* argv[]) {
-	registerGen(argc, argv, 1);
 
-	int n = atoi(argv[1]);
+    registerGen(argc, argv, 1);
 
-	int A = rnd.next(0, n - 1);
-	int B = rnd.next(A + 1, n);
+    int n=atoi(argv[1]),q=atoi(argv[2]),q1=atoi(argv[3]),q2=atoi(argv[4]),c=atoi(argv[5]);
 
-	cout << A << " " << B << endl;
+    cout<<n<<" "<<q<<"\n";
 
-	return 0;
+    for (int i=1;i<=n;i++){
+
+        int r=rnd.next(1,c);
+
+        cout<<r<<" \n"[i==n];
+
+    }
+
+
+    for (int i=1;i<=q;i++){
+
+        int op=rnd.next(1,2),a,b;
+
+        if (op==1){
+
+            a=rnd.next(q1,q2);
+
+            cout<<op<<' '<<a<<'\n';
+
+        }
+
+        else {
+
+            a=rnd.next(1,n)-1;
+
+            b=rnd.next(1,c);
+
+            cout<<op<<" "<<a<<" "<<b<<'\n';
+
+        }
+
+    }
+
+    return 0;
+
 }
