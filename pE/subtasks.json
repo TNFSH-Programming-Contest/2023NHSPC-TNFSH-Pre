@@ -18,13 +18,13 @@
         "brute": {
             "index": 2,
             "score": 21,
-            "text": "$1 \\leq n, q \\leq 5000",
+            "text": "$1 \\leq n, q \\leq 5000$",
             "validators": []
         },
         "nlogn": {
             "index": 3,
             "score": 27,
-            "text": "$1 \\leq n, q \\leq 2 \\times 10^5",
+            "text": "$1 \\leq n, q \\leq 2 \\times 10^5$",
             "validators": []
         },
         "linear": {
