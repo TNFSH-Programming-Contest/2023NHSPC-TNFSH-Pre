@@ -1,9 +1,9 @@
 {
 	"contest_name": "TPS範例題目",
 	"problem_label": "A",
-	"name": "Arithmetic",
-	"title": "四則運算",
-	"memory_limit": 512,
+	"name": "partial-game",
+	"title": "有偏賽局",
+	"memory_limit": 256,
 	"time_limit": 1.0,
 	"type": "Batch",
 	"description": "",

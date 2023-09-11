@@ -1,50 +1,28 @@
 @subtask samples
-manual sample-01.in
+manual example.in
 
-@subtask a0
-gen task2 qutxm
-gen task2 iqsds
-gen task2 qsvsu
-gen task2 entmw
-gen task2 pwcpr
-gen task2 tvgso
-gen task2 ulads
-gen task2 sxrfu
-gen task2 yhuhq
-gen task2 enihw
-gen task2 zhton
-gen task2 jhfof
-gen task2 shvex
+@subtask one
+gen-one 1
+gen-one 23
+gen-one 51238
+gen-one 100000
 
-@subtask 1e4
-gen norm 0 10000 csizh
-gen norm 0 10000 xtqcy
-gen norm 0 10000 ilhti
-gen norm 0 10000 bhsud
-gen norm 0 10000 nmknb
-gen norm 0 10000 wgryr
-gen norm 0 10000 khjyf
-gen norm 0 10000 utnbp
-gen norm 0 10000 bowkf
-gen norm 0 10000 jecqs
-gen norm 0 10000 hgcnm
-gen norm 0 10000 ubpto
-gen norm 0 10000 bzuuu
-gen norm 0 10000 mnmer
+@subtask six
+gen-six 1
+gen-six 23
+gen-six 51238
+gen-six 100000
 
 @subtask all
-manual all-01.in
-gen norm -1000000000 1000000000 jvnyj
-gen norm -1000000000 1000000000 mtkbd
-gen norm -1000000000 1000000000 cihky
-gen norm -1000000000 1000000000 xnvey
-gen norm -1000000000 1000000000 hsrhk
-gen norm -1000000000 1000000000 dbgtb
-gen norm -1000000000 1000000000 qfsov
-gen norm -1000000000 1000000000 jskbd
-gen norm -1000000000 1000000000 oxwpy
-gen norm -1000000000 1000000000 ljnss
-gen norm -1000000000 1000000000 kzdqk
-gen norm -1000000000 1000000000 mvijw
-gen norm -1000000000 1000000000 dzzwm
-gen norm -1000000000 1000000000 wfbej
+@include one
+@include six
+gen 5
+gen 6
+gen 100000 a
+gen 100000 b
+gen 100000 c
+gen 100000 d
+gen 100000 e
+gen 100000 f
+gen-equal 100000 a
+gen-equal 100000 b

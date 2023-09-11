@@ -14,5 +14,5 @@ int main(int argc, char *argv[])
 
 	cout << N << '\n';
 	for (int i = 1; i <= N; i++)
-		cout << rnd.next(1, C) << " \n"[i == N];
+		cout << rnd.next(1, 1) << " \n"[i == N];
 }

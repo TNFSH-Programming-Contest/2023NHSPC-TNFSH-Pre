@@ -9,25 +9,21 @@
             "text": "範例輸入輸出",
             "validators": []
         },
-        "a0": {
+        "one": {
             "index": 1,
-            "score": 20,
-            "text": "$A = 0$、$1 \\leq B \\leq 10^{4}$",
-            "validators": [
-                "validator-2.cpp"
-            ]
+            "score": 1,
+            "text": "黑板上的數字不是質數也不是合數",
+            "validators": []
         },
-        "1e4": {
+        "six": {
             "index": 2,
-            "score": 30,
-            "text": "$0 \\leq A, B \\leq 10^{4}$",
-            "validators": [
-                "validator-3.cpp"
-            ]
+            "score": 2,
+            "text": "黑板上的數字都是 6 的倍數",
+            "validators": []
         },
         "all": {
             "index": 3,
-            "score": 50,
+            "score": 97,
             "text": "無額外限制",
             "validators": []
         }
