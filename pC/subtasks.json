@@ -12,13 +12,13 @@
         "n4": {
             "index": 1,
             "score": 14,
-            "text": "$N, M \\leq 50",
+            "text": "$N, M \\leq 50$",
             "validators": []
         },
         "n3": {
             "index": 2,
             "score": 46,
-            "text": "$N, M \\leq 500",
+            "text": "$N, M \\leq 500$",
             "validators": []
         },
         "full": {

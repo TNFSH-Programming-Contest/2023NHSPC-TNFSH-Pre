@@ -2,7 +2,7 @@
 	"contest_name": "TPS範例題目",
 	"problem_label": "B",
 	"name": "pB",
-	"title": "浮點誤差但不使用checker",
+	"title": "細胞培養",
 	"memory_limit": 512,
 	"time_limit": 1.0,
 	"type": "Batch",

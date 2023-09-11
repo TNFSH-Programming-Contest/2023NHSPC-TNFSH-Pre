@@ -9,16 +9,23 @@
             "text": "範例輸入輸出",
             "validators": []
         },
-        "simple": {
+        "n2": {
             "index": 1,
-            "score": 20,
-            "text": "Simple tests",
+            "score": 25,
+            "text": "$N \\leq 2000$",
             "validators": []
         },
-        "hacked": {
+        "nc": {
             "index": 2,
-            "score": 80,
-            "text": "Hacked tests",
+            "score": 36,
+            "text": "$c_i \\leq 40$",
+            "validators": []
+        },
+        "full":
+        {
+            "index": 3,
+            "score": 39,
+            "text": "無額外限制",
             "validators": []
         }
     }
