@@ -16,8 +16,8 @@
 輸出最高的抬升高度。  
 
 ## 輸入限制
- - $1 \leq n, q \leq 1.5 \times 10^6$  
- - $1 \leq p_i \leq n$  
+ - $1 \leq n, q \leq 1.5 \times 10^6$
+ - $1 \leq p_i \leq n$
  - $1 \leq c_i \leq 10^9$
 
 ## 子任務

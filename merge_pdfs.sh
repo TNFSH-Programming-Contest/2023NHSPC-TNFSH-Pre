@@ -5,6 +5,9 @@ PROBLEMS=$(python3 -c 'import json, os; print(" ".join(json.loads(os.environ.get
 
 MERGECMD="pdfunite "
 for prob in $PROBLEMS; do
+	cd p${prob}
+	make
+	cd ..
 	if [ -f "p${prob}/statement/index.pdf" ]; then
 		MERGECMD="$MERGECMD p${prob}/statement/index.pdf"
 	fi
