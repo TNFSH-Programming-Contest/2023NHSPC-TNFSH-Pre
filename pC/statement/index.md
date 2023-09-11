@@ -43,7 +43,7 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=6in]{index.webp}
+\includegraphics[width=6in]{drawing.webp}
 \caption{範例測試的解說}
 \end{figure}
 
