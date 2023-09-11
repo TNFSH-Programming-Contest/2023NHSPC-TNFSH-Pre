@@ -1,4 +1,5 @@
 samples 0-01
+n2 0-01
 n2 1-01
 n2 1-02
 n2 1-03
@@ -12,6 +13,7 @@ n2 1-10
 n2 1-11
 n2 small-01
 n2 small-02
+nc 0-01
 nc 2-01
 nc 2-02
 nc 2-03
@@ -21,6 +23,7 @@ nc 2-06
 nc 2-07
 nc small-01
 nc small-02
+full 0-01
 full 1-01
 full 1-02
 full 1-03
