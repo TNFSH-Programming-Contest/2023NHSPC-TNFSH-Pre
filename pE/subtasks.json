@@ -1,0 +1,37 @@
+{
+    "global_validators": [
+        "validator.cpp"
+    ],
+    "subtasks": {
+        "samples": {
+            "index": 0,
+            "score": 0,
+            "text": "範例輸入輸出",
+            "validators": []
+        },
+        "constant": {
+            "index": 1,
+            "score": 9,
+            "text": "$c_i = 1$",
+            "validators": []
+        },
+        "brute": {
+            "index": 2,
+            "score": 21,
+            "text": "$1 \\leq n, q \\leq 5000",
+            "validators": []
+        },
+        "nlogn": {
+            "index": 3,
+            "score": 27,
+            "text": "$1 \\leq n, q \\leq 2 \\times 10^5",
+            "validators": []
+        },
+        "linear": {
+            "index": 4,
+            "score": 43,
+            "text": "無額外限制",
+            "validators": []
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+	"linear.cpp": {
+		"verdict": "model_solution"
+	},
+	"segment-tree.cpp": {
+		"verdict": "correct",
+		"except": {
+			"constant": "time_limit",
+			"linear": "time_limit"
+		}
+	},
+	"brute.cpp": {
+		"verdict": "correct",
+		"except": {
+			"constant": "time_limit",
+			"nlogn": "time_limit",
+			"linear": "time_limit"
+		}
+	},
+	"tester-littlecube.cpp": {
+		"verdict": "correct"
+	},
+	"tester-littlecube-noIOoptimize.cpp":
+	{
+		"verdict": "correct"
+	}
+}
