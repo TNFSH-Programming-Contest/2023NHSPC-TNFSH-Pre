@@ -1,24 +1,135 @@
 binary_search.cpp
 solution            compile[OK]
-checker             compile[FAIL]
-exit-code: 2
-stdout:
-stderr:
-make: *** /home/runner/work/2023TNFSH-Preliminary/2023TNFSH-Preliminary/pC/checker: No such file or directory.  Stop.
+0-01                sol[OK]    0.013     check[OK]        1  [Correct]             
+0-02                sol[OK]    0.012     check[OK]        1  [Correct]             
+1-01                sol[OK]    0.012     check[OK]        1  [Correct]             
+1-02                sol[OK]    0.014     check[OK]        1  [Correct]             
+1-03                sol[OK]    0.015     check[OK]        1  [Correct]             
+1-04                sol[OK]    0.017     check[OK]        1  [Correct]             
+1-05                sol[OK]    0.017     check[OK]        1  [Correct]             
+1-06                sol[OK]    0.014     check[OK]        1  [Correct]             
+1-07                sol[OK]    0.015     check[OK]        1  [Correct]             
+1-08                sol[OK]    0.014     check[OK]        1  [Correct]             
+1-09                sol[OK]    0.014     check[OK]        1  [Correct]             
+1-10                sol[OK]    0.014     check[OK]        1  [Correct]             
+1-11                sol[OK]    0.014     check[OK]        1  [Correct]             
+2-01                sol[OK]    0.022     check[OK]        1  [Correct]             
+2-02                sol[OK]    0.023     check[OK]        1  [Correct]             
+2-03                sol[OK]    0.023     check[OK]        1  [Correct]             
+2-04                sol[OK]    0.022     check[OK]        1  [Correct]             
+2-05                sol[OK]    0.022     check[OK]        1  [Correct]             
+2-06                sol[OK]    0.021     check[OK]        1  [Correct]             
+2-07                sol[OK]    0.021     check[OK]        1  [Correct]             
+2-08                sol[OK]    0.021     check[OK]        1  [Correct]             
+2-09                sol[OK]    0.021     check[OK]        1  [Correct]             
+2-10                sol[OK]    0.021     check[OK]        1  [Correct]             
+3-01                sol[OK]    0.108     check[OK]        1  [Correct]             
+3-02                sol[OK]    0.105     check[OK]        1  [Correct]             
+3-03                sol[OK]    0.101     check[OK]        1  [Correct]             
+3-04                sol[OK]    0.100     check[OK]        1  [Correct]             
+3-05                sol[OK]    0.088     check[OK]        1  [Correct]             
+3-06                sol[OK]    0.083     check[OK]        1  [Correct]             
+3-07                sol[OK]    0.081     check[OK]        1  [Correct]             
+3-08                sol[OK]    0.078     check[OK]        1  [Correct]             
+3-09                sol[OK]    0.079     check[OK]        1  [Correct]             
+3-10                sol[OK]    0.080     check[OK]        1  [Correct]             
+samples             [2/2 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
+n4                  [13/13 tests]  [Correct]             [14/14 pts]    [match with expected]             0-01
+n3                  [23/23 tests]  [Correct]             [46/46 pts]    [match with expected]             0-01
+full                [33/33 tests]  [Correct]             [40/40 pts]    [match with expected]             0-01
+
+Subtask summary
+100/100 pts
+
+Finished.
 
 linear.cpp
 solution            compile[OK]
-checker             compile[FAIL]
-exit-code: 2
-stdout:
-stderr:
-make: *** /home/runner/work/2023TNFSH-Preliminary/2023TNFSH-Preliminary/pC/checker: No such file or directory.  Stop.
+0-01                sol[OK]    0.013     check[OK]        1  [Correct]             
+0-02                sol[OK]    0.013     check[OK]        1  [Correct]             
+1-01                sol[OK]    0.012     check[OK]        1  [Correct]             
+1-02                sol[OK]    0.015     check[OK]        1  [Correct]             
+1-03                sol[OK]    0.016     check[OK]        1  [Correct]             
+1-04                sol[OK]    0.016     check[OK]        1  [Correct]             
+1-05                sol[OK]    0.018     check[OK]        1  [Correct]             
+1-06                sol[OK]    0.015     check[OK]        1  [Correct]             
+1-07                sol[OK]    0.015     check[OK]        1  [Correct]             
+1-08                sol[OK]    0.015     check[OK]        1  [Correct]             
+1-09                sol[OK]    0.016     check[OK]        1  [Correct]             
+1-10                sol[OK]    0.017     check[OK]        1  [Correct]             
+1-11                sol[OK]    0.016     check[OK]        1  [Correct]             
+2-01                sol[OK]    0.032     check[OK]        1  [Correct]             
+2-02                sol[OK]    0.033     check[OK]        1  [Correct]             
+2-03                sol[OK]    0.033     check[OK]        1  [Correct]             
+2-04                sol[OK]    0.032     check[OK]        1  [Correct]             
+2-05                sol[OK]    0.032     check[OK]        1  [Correct]             
+2-06                sol[OK]    0.029     check[OK]        1  [Correct]             
+2-07                sol[OK]    0.028     check[OK]        1  [Correct]             
+2-08                sol[OK]    0.034     check[OK]        1  [Correct]             
+2-09                sol[OK]    0.029     check[OK]        1  [Correct]             
+2-10                sol[OK]    0.029     check[OK]        1  [Correct]             
+3-01                sol[OK]    0.121     check[OK]        1  [Correct]             
+3-02                sol[OK]    0.178     check[OK]        1  [Correct]             
+3-03                sol[OK]    0.154     check[OK]        1  [Correct]             
+3-04                sol[OK]    0.136     check[OK]        1  [Correct]             
+3-05                sol[OK]    0.124     check[OK]        1  [Correct]             
+3-06                sol[OK]    0.123     check[OK]        1  [Correct]             
+3-07                sol[OK]    0.123     check[OK]        1  [Correct]             
+3-08                sol[OK]    0.123     check[OK]        1  [Correct]             
+3-09                sol[OK]    0.122     check[OK]        1  [Correct]             
+3-10                sol[OK]    0.123     check[OK]        1  [Correct]             
+samples             [2/2 tests]    [Correct]             [0/0 pts]      [match with expected]             0-01
+n4                  [13/13 tests]  [Correct]             [14/14 pts]    [match with expected]             0-01
+n3                  [23/23 tests]  [Correct]             [46/46 pts]    [match with expected]             0-01
+full                [33/33 tests]  [Correct]             [40/40 pts]    [match with expected]             0-01
+
+Subtask summary
+100/100 pts
+
+Finished.
 
 n3.cpp
 solution            compile[OK]
-checker             compile[FAIL]
-exit-code: 2
-stdout:
-stderr:
-make: *** /home/runner/work/2023TNFSH-Preliminary/2023TNFSH-Preliminary/pC/checker: No such file or directory.  Stop.
+0-01                sol[OK]    0.015     check[OK]        1  [Correct]             
+0-02                sol[OK]    0.013     check[OK]        1  [Correct]             
+1-01                sol[OK]    0.012     check[OK]        1  [Correct]             
+1-02                sol[OK]    0.012     check[OK]        1  [Correct]             
+1-03                sol[OK]    0.013     check[OK]        1  [Correct]             
+1-04                sol[OK]    0.013     check[OK]        1  [Correct]             
+1-05                sol[OK]    0.013     check[OK]        1  [Correct]             
+1-06                sol[OK]    0.013     check[OK]        1  [Correct]             
+1-07                sol[OK]    0.013     check[OK]        1  [Correct]             
+1-08                sol[OK]    0.013     check[OK]        1  [Correct]             
+1-09                sol[OK]    0.013     check[OK]        1  [Correct]             
+1-10                sol[OK]    0.013     check[OK]        1  [Correct]             
+1-11                sol[OK]    0.013     check[OK]        1  [Correct]             
+2-01                sol[OK]    0.020     check[OK]        1  [Correct]             
+2-02                sol[OK]    0.020     check[OK]        1  [Correct]             
+2-03                sol[OK]    0.020     check[OK]        1  [Correct]             
+2-04                sol[OK]    0.020     check[OK]        1  [Correct]             
+2-05                sol[OK]    0.020     check[OK]        1  [Correct]             
+2-06                sol[OK]    0.039     check[OK]        1  [Correct]             
+2-07                sol[OK]    0.039     check[OK]        1  [Correct]             
+2-08                sol[OK]    0.039     check[OK]        1  [Correct]             
+2-09                sol[OK]    0.039     check[OK]        1  [Correct]             
+2-10                sol[OK]    0.039     check[OK]        1  [Correct]             
+3-01                sol[OK]    0.077     check[OK]        1  [Correct]             
+3-02                sol[OK]    0.126     check[OK]        1  [Correct]             
+3-03                sol[OK]    0.143     check[OK]        1  [Correct]             
+3-04                sol[OK]    0.167     check[OK]        1  [Correct]             
+3-05                sol[OK]    0.580     check[OK]        1  [Correct]             
+3-06                sol[OK]    0.589     check[OK]        1  [Correct]             
+3-07                sol[FAIL]  2.065     check[SKIP]      0  [Time Limit Exceeded] 
+3-08                sol[FAIL]  3.005     check[SKIP]      0  [Time Limit Exceeded] 
+3-09                sol[FAIL]  3.005     check[SKIP]      0  [Time Limit Exceeded] 
+3-10                sol[FAIL]  3.005     check[SKIP]      0  [Time Limit Exceeded] 
+samples             [2/2 tests]    [Correct]             [0/0 pts]      [expected: time_limit]            0-01
+n4                  [13/13 tests]  [Correct]             [14/14 pts]    [match with expected]             0-01
+n3                  [23/23 tests]  [Correct]             [46/46 pts]    [match with expected]             0-01
+full                [33/33 tests]  [Time Limit Exceeded] [0/40 pts]     [match with expected]             3-07
+
+Subtask summary
+60/100 pts
+
+Finished.
 
