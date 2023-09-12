@@ -43,7 +43,7 @@
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=6in]{drawing.png}
+\includegraphics[width=6in]{drawing.jpg}
 \caption{範例測試的解說}
 \end{figure}
 
