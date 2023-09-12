@@ -1,6 +1,4 @@
-# TPS範例題目
-
-此處說明已搬遷到 https://wiki.tfcis.org/TPS
+# 112 學年度資訊學科能力競賽臺南一中校內初選
 
 ## Quick Links
 [problems.pdf](pA/attachments/problems.pdf)
