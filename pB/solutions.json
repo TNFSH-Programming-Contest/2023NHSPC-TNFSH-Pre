@@ -1,5 +1,20 @@
 {
 	"correct.cpp": {
 		"verdict": "model_solution"
+	},
+	"n2.cpp": {
+		"verdict": "incorrect",
+		"except":
+		{
+			"samples": "correct",
+			"n2": "correct"
+		}
+	},
+	"overflow.cpp": {
+		"verdict": "incorrect",
+		"except":
+		{
+			"nc": "correct"
+		}
 	}
 }

@@ -21,7 +21,7 @@
 
 ## 輸入限制
  - $1 \leq N \leq 3 \times 10^5$
- - $0 \leq c_i \leq 10^9$
+ - $0 \leq c_i \leq 2 \times 10^9$
 
 ## 子任務
 \subtasks

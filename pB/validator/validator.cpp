@@ -1,7 +1,7 @@
 #include "testlib.h"
 using namespace std;
 
-const int maxN = 300'000, maxC = 1'000'000'000;
+const int maxN = 300'000, maxC = 2'000'000'000;
 
 int main()
 {
