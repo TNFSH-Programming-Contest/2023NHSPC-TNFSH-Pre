@@ -1,7 +1,8 @@
 # 112 學年度資訊學科能力競賽臺南一中校內初選
 
 ## Quick Links
-[problems.pdf](pA/attachments/problems.pdf)
+* [題本](https://tnfsh-programming-contest.github.io/2023NHSPC-TNFSH-Pre/pA/attachments/problems.pdf) - [View in GitHub](pA/attachments/problems.pdf)
+* [記分板](https://tnfsh-programming-contest.github.io/2023NHSPC-TNFSH-Pre/ranking/Ranking.html)
 
 | problem | statement | gen | validator | solution | tests | config | author |
 | --- | --- | --- | --- | --- | --- | --- | --- |
